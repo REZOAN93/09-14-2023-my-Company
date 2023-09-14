@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "age": 42,
+    "picture": "https://i.ibb.co/M6tLrNf/unnamed.jpg",
+    "position": "CEO",
+    "description": "John Doe is the visionary leader of our company. He has a wealth of experience in the industry and is dedicated to our mission.",
+    "salary": 150000,
+    "favoriteBook": "The Lean Startup"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "age": 38,
+    "picture": "https://i.ibb.co/rm0SYqg/Mohammad-Mithun.webp",
+    "position": "COO",
+    "description": "Jane Smith is our Chief Operating Officer, ensuring the company's day-to-day operations run smoothly.",
+    "salary": 120000,
+    "favoriteBook": "Good to Great"
+  },
+  {
+    "id": 3,
+    "name": "David Brown",
+    "age": 45,
+    "picture": "https://i.ibb.co/j3MJYYH/20150204040736.jpg",
+    "position": "CFO",
+    "description": "David Brown is the financial wizard of our team, managing our finances with precision.",
+    "salary": 130000,
+    "favoriteBook": "Rich Dad Poor Dad"
+  },
+  {
+    "id": 4,
+    "name": "Sarah Johnson",
+    "age": 30,
+    "picture": "https://i.ibb.co/j3MJYYH/20150204040736.jpg",
+    "position": "CTO",
+    "description": "Sarah Johnson is our technology guru, leading our innovation efforts.",
+    "salary": 125000,
+    "favoriteBook": "The Innovator's Dilemma"
+  },
+  {
+    "id": 5,
+    "name": "Michael Wilson",
+    "age": 50,
+    "picture": "https://i.ibb.co/j3MJYYH/20150204040736.jpg",
+    "position": "CMO",
+    "description": "Michael Wilson is our Chief Marketing Officer, responsible for promoting our brand and products.",
+    "salary": 130000,
+    "favoriteBook": "Influence: The Psychology of Persuasion"
+  },
+  {
+    "id": 6,
+    "name": "Emily Davis",
+    "age": 36,
+    "picture": "https://i.ibb.co/j3MJYYH/20150204040736.jpg",
+    "position": "CHRO",
+    "description": "Emily Davis is our Chief Human Resources Officer, dedicated to building a great workplace culture.",
+    "salary": 115000,
+    "favoriteBook": "Drive: The Surprising Truth About What Motivates Us"
+  },
+  {
+    "id": 7,
+    "name": "Robert White",
+    "age": 48,
+    "picture": "https://i.ibb.co/j3MJYYH/20150204040736.jpg",
+    "position": "CSO",
+    "description": "Robert White is our Chief Strategy Officer, shaping our long-term business direction.",
+    "salary": 140000,
+    "favoriteBook": "Blue Ocean Strategy"
+  },
+  {
+    "id": 8,
+    "name": "Laura Martinez",
+    "age": 34,
+    "picture": "https://i.ibb.co/j3MJYYH/20150204040736.jpg",
+    "position": "CIO",
+    "description": "Laura Martinez is our Chief Information Officer, overseeing our IT infrastructure.",
+    "salary": 120000,
+    "favoriteBook": "The Phoenix Project"
+  },
+  {
+    "id": 9,
+    "name": "William Johnson",
+    "age": 47,
+    "picture": "https://i.ibb.co/j3MJYYH/20150204040736.jpg",
+    "position": "CAO",
+    "description": "William Johnson is our Chief Administrative Officer, managing administrative functions.",
+    "salary": 125000,
+    "favoriteBook": "Leaders Eat Last"
+  },
+  {
+    "id": 10,
+    "name": "Maria Rodriguez",
+    "age": 41,
+    "picture": "https://i.ibb.co/j3MJYYH/20150204040736.jpg",
+    "position": "CCO",
+    "description": "Maria Rodriguez is our Chief Compliance Officer, ensuring legal and regulatory compliance.",
+    "salary": 115000,
+    "favoriteBook": "The Checklist Manifesto"
+  },
+  {
+    "id": 11,
+    "name": "James Anderson",
+    "age": 39,
+    "picture": "https://i.ibb.co/j3MJYYH/20150204040736.jpg",
+    "position": "CLO",
+    "description": "James Anderson is our Chief Legal Officer, managing legal affairs and contracts.",
+    "salary": 135000,
+    "favoriteBook": "To Kill a Mockingbird"
+  },
+  {
+    "id": 12,
+    "name": "Karen Thomas",
+    "age": 37,
+    "picture": "https://i.ibb.co/j3MJYYH/20150204040736.jpg",
+    "position": "CDO",
+    "description": "Karen Thomas is our Chief Diversity Officer, promoting diversity and inclusion within the company.",
+    "salary": 120000,
+    "favoriteBook": "Daring Greatly"
+  },
+  {
+    "id": 13,
+    "name": "George Wilson",
+    "age": 44,
+    "picture": "https://i.ibb.co/j3MJYYH/20150204040736.jpg",
+    "position": "CVO",
+    "description": "George Wilson is our Chief Visionary Officer, guiding our long-term strategic vision.",
+    "salary": 140000,
+    "favoriteBook": "Start with Why"
+  },
+  {
+    "id": 14,
+    "name": "Olivia Davis",
+    "age": 35,
+    "picture": "https://i.ibb.co/j3MJYYH/20150204040736.jpg",
+    "position": "CBO",
+    "description": "Olivia Davis is our Chief Business Officer, responsible for revenue growth strategies.",
+    "salary": 125000,
+    "favoriteBook": "The Art of War"
+  },
+  {
+    "id": 15,
+    "name": "Mark Anderson",
+    "age": 49,
+    "picture": "https://i.ibb.co/j3MJYYH/20150204040736.jpg",
+    "position": "CIO",
+    "description": "Mark Anderson is our Chief Innovation Officer, driving innovation in our products and services.",
+    "salary": 130000,
+    "favoriteBook": "Innovators Dilemma"
+  },
+  {
+    "id": 16,
+    "name": "Linda Wilson",
+    "age": 43,
+    "picture": "https://i.ibb.co/Y80PRth/1919.png",
+    "position": "CPO",
+    "description": "Linda Wilson is our Chief Product Officer, overseeing product development and quality.",
+    "salary": 125000,
+    "favoriteBook": "The Design of Everyday Things"
+  },
+  {
+    "id": 17,
+    "name": "Thomas Baker",
+    "age": 36,
+    "picture": "https://i.ibb.co/Y80PRth/1919.png",
+    "position": "CLO",
+    "description": "Thomas Baker is our Chief Learning Officer, fostering a culture of continuous learning.",
+    "salary": 115000,
+    "favoriteBook": "Mindset: The New Psychology of Success"
+  },
+  {
+    "id": 18,
+    "name": "Susan Miller",
+    "age": 45,
+    "picture": "https://i.ibb.co/Y80PRth/1919.png",
+    "position": "CNO",
+    "description": "Susan Miller is our Chief Networking Officer, building strategic partnerships.",
+    "salary": 120000,
+    "favoriteBook": "Never Eat Alone"
+  },
+  {
+    "id": 19,
+    "name": "Kevin Wright",
+    "age": 40,
+    "picture": "https://i.ibb.co/qMvHtd3/Imrul-Kayes-net-worth-BPL-2022-salary-personal-biography-1.jpg",
+    "position": "CSO",
+    "description": "Kevin Wright is our Chief Security Officer, ensuring the safety of our data and assets.",
+    "salary": 130000,
+    "favoriteBook": "The Art of Deception"
+  },
+  {
+    "id": 20,
+    "name": "Nancy Lewis",
+    "age": 38,
+    "picture": "https://i.ibb.co/HpKc3M4/t-Dg-BGQSt-400x400.jpg",
+    "position": "CMO",
+    "description": "Nancy Lewis is our Chief Marketing Officer, leading our marketing campaigns.",
+    "salary": 125000,
+    "favoriteBook": "Contagious: How to Build Word of Mouth in the Digital Age"
+  }
+]

@@ -1,0 +1,7 @@
+body {
+  background-image: linear-gradient(90deg, black 0%, rgba(0, 95, 172, 0) 100%),
+    url("../../assets/cover1.jpg");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
